@@ -2,6 +2,7 @@
   "name": "hello-world",
   "version": "1.0.0",
   "description": "Hello World",
+  "homepage": "https://cinthyavsavsa.github.io/layout_hello-world/",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
